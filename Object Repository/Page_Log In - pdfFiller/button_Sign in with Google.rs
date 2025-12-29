@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign in with Google</name>
+   <tag></tag>
+   <elementGuidId>59ce2b4d-745c-479a-bc71-7b26bc6222de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button_D5ZA4D.button_wide_ruErTH.button_big_s2Wwtj.button_social_n276fI.button_isLeftGap_MdM6jd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Sign in with Google&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3047d306-7cde-4dbe-808c-6cd261b23ac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e425a0a8-fea1-4942-b2e5-a00c0c0113ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button_D5ZA4D button_wide_ruErTH button_big_s2Wwtj button_social_n276fI button_isLeftGap_MdM6jd</value>
+      <webElementGuid>f0d9882b-d4a7-4110-a1b9-ec41311b731c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-qa-tag</name>
+      <type>Main</type>
+      <value>login-google-button</value>
+      <webElementGuid>bdcefcbc-80c2-4514-8952-6c55b497e56b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in with Google</value>
+      <webElementGuid>8d25c876-3757-4423-978d-efea65ea9f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;themeProvider_U5SsF4&quot;]/div[@class=&quot;layout_QJLVOT layout_fullSize_rnDnoH&quot;]/div[@class=&quot;layout__inner_gF3XPY&quot;]/div[@class=&quot;layout__content_1tVBeL layout__content_withoutGap_R8VPTV layout__content_directionColumn_17hxDk layout__content_isLoginRedesign_LnvOf7&quot;]/div[@class=&quot;layout__content_inner_tfKtAQ&quot;]/div[@class=&quot;signBlock_jgOT7H signBlock_isPage_PP889Y signBlock_isLogin_M33VTu&quot;]/div[@class=&quot;signBlock__wrapper_DfszMj&quot;]/div[@class=&quot;signBlock__body_4YevfZ&quot;]/div[@class=&quot;flexFlow_u4tfPN flexFlow_shape_block_pvTdNu flexFlow_direction_column_BiL4It flexFlow_gap_12_EMplW9&quot;]/button[@class=&quot;button_D5ZA4D button_wide_ruErTH button_big_s2Wwtj button_social_n276fI button_isLeftGap_MdM6jd&quot;]</value>
+      <webElementGuid>ba8aae63-aed8-4398-9d0b-0c0e2f4aa92f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>01c3fc29-2ae4-45cd-bf86-24b2c3e6bab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div[3]/div/div/div/div/div/button</value>
+      <webElementGuid>44921367-5306-4b18-a6d6-1a8101157235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='signNow'])[1]/following::button[1]</value>
+      <webElementGuid>b1b72119-b654-49d4-829c-42a678850b14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='airSlate'])[1]/following::button[1]</value>
+      <webElementGuid>011b7baa-3c95-4618-a13d-ca9268677c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in with Facebook'])[1]/preceding::button[1]</value>
+      <webElementGuid>1a275d01-f7bb-4f26-b46c-52267cd22476</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>30e1b50d-a5fc-4330-8a28-2074a7ecd233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Sign in with Google' or . = 'Sign in with Google')]</value>
+      <webElementGuid>7e1548da-3855-40a8-b4fb-2a16605cd60c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

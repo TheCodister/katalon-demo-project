@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Browserstack-navigateToURLlstener</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c0fb7810-68d5-4946-9692-bcd1168327ec</testCaseGuid>
+</TestCaseEntity>

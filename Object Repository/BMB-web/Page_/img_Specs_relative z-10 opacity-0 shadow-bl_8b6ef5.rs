@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Specs_relative z-10 opacity-0 shadow-bl_8b6ef5</name>
+   <tag></tag>
+   <elementGuidId>4477fe21-10ce-4372-8ea7-aab94b1b55c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/main/section/main/div/div[3]/div/div/div[2]/div[2]/div/div[2]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;VNB V200 Red&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>afcc44c6-b50b-40aa-9ac7-4400ff25ffd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn.shopvnb.com/uploads/san_pham/vot-cau-long-vnb-v200-do-2.webp</value>
+      <webElementGuid>88beae0e-0dda-4106-8588-be39ecee4555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative z-10 opacity-0 shadow-black/5 data-[loaded=true]:opacity-100 shadow-none transition-transform-opacity motion-reduce:transition-none !duration-300 rounded-large w-full h-full object-cover</value>
+      <webElementGuid>b24c578e-1fdb-436e-b819-ce97ef6e4dd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>VNB V200 Red</value>
+      <webElementGuid>34433fa5-4e2f-4622-af7d-1ff7e4c1b1cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loaded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>712acc27-0121-40fa-ab4a-9c8c0a1a659a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__variable_4bc053 font-sans&quot;]/div[@class=&quot;relative flex flex-col min-h-screen&quot;]/main[@class=&quot;flex justify-center py-10 h-full flex-grow overflow-auto&quot;]/section[@class=&quot;flex flex-col items-start&quot;]/main[1]/div[@class=&quot;flex flex-col justify-center gap-5 px-3 items-center&quot;]/div[@class=&quot;flex flex-col gap-5 items-center&quot;]/div[@class=&quot;bg-gray-300 rounded-xl pb-5 flex flex-col gap-5&quot;]/div[@class=&quot;flex items-center gap-5 px-4 h-full&quot;]/div[@class=&quot;grid w-full gap-4 grid-cols-1 md:grid-cols-2 sm:grid-cols-1 lg:grid-cols-3 xl:grid-cols-4 items-center&quot;]/div[@class=&quot;relative overflow-hidden text-foreground box-border bg-content1 outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 shadow-large rounded-large transition-transform-background motion-reduce:transition-none xl:w-[250px] lg:w-[250px] md:w-[250px] sm:w-auto w-auto h-full flex flex-col items-center justify-center cursor-pointer&quot;]/div[@class=&quot;relative flex w-full p-3 flex-auto flex-col place-content-inherit align-items-inherit break-words text-left overflow-y-auto subpixel-antialiased gap-2 pb-0 h-min&quot;]/div[@class=&quot;w-full h-[300px] flex justify-center items-center overflow-hidden&quot;]/div[@class=&quot;relative shadow-black/5 shadow-none rounded-large&quot;]/img[@class=&quot;relative z-10 opacity-0 shadow-black/5 data-[loaded=true]:opacity-100 shadow-none transition-transform-opacity motion-reduce:transition-none !duration-300 rounded-large w-full h-full object-cover&quot;]</value>
+      <webElementGuid>a9dbd788-9361-4582-85ab-244fab4a9da9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/main/section/main/div/div[3]/div/div/div[2]/div[2]/div/div[2]/div/img</value>
+      <webElementGuid>76070806-0b84-48d7-b9df-14a60cab6264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='VNB V200 Red']</value>
+      <webElementGuid>a162e5f0-500b-4917-9525-7ce00962582b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/img</value>
+      <webElementGuid>ada9f277-b0fc-4318-95ce-b4fb37b20b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn.shopvnb.com/uploads/san_pham/vot-cau-long-vnb-v200-do-2.webp' and @alt = 'VNB V200 Red']</value>
+      <webElementGuid>c949f05f-47b5-4bea-92f1-00f372230983</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

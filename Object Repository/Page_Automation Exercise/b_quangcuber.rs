@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_quangcuber</name>
+   <tag></tag>
+   <elementGuidId>0452f0d3-2ca0-4d7a-9a3e-c56b703ae814</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact us'])[1]/following::b[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Logged in as quangcuber&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>b6f775e5-9875-4624-91fa-c3fe0f2a8570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>quangcuber</value>
+      <webElementGuid>45a12835-c933-47c6-b5e7-210911a393d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header-middle&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;shop-menu pull-right&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[10]/a[1]/b[1]</value>
+      <webElementGuid>5503198b-701d-4219-b594-66f944990ee2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/div/div/div[2]/div/ul/li[10]/a/b</value>
+      <webElementGuid>36e3bc24-67d8-4bbd-8a5a-882b1f368b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact us'])[1]/following::b[1]</value>
+      <webElementGuid>c0a0b424-ece1-4a25-a631-6de5ca90f105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation'])[1]/preceding::b[1]</value>
+      <webElementGuid>1883cefa-cd52-4d6f-8747-d693f2e9f083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='quangcuber']/parent::*</value>
+      <webElementGuid>f3dd9921-4099-46c3-a46b-0410ea92d46c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>005c7ed2-95f4-4221-8fbe-58024239e384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'quangcuber' or . = 'quangcuber')]</value>
+      <webElementGuid>1e5c8a51-a640-40ae-bef8-1b3517c8390d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

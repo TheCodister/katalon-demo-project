@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SwipeTestcase</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>TESTCLOUD_NATIVE_MOBILE</recordOption>
+   <testCaseGuid>679d7de6-e4d9-41ea-a718-a9f54d6e1260</testCaseGuid>
+</TestCaseEntity>

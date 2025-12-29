@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>React-native-app</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>TESTCLOUD_NATIVE_MOBILE</recordOption>
+   <testCaseGuid>bd616df7-9690-40e4-adc6-c97d0a0e5aa1</testCaseGuid>
+</TestCaseEntity>

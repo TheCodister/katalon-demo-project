@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign in</name>
+   <tag></tag>
+   <elementGuidId>ebf631aa-3737-4eb1-a4b4-818cc011d9a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ms-Button.ms-Button--primary.root-161</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Sign in to your Microsoft account&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c6ff2feb-ef5d-4b51-be23-f8e59f6166eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>af972039-2ca4-410d-b44f-a70d7f324122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bi-id</name>
+      <type>Main</type>
+      <value>signedout.hero.signIn</value>
+      <webElementGuid>a506b8fb-dab1-4517-b785-973b19871a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Button ms-Button--primary root-161</value>
+      <webElementGuid>320f8625-5b8e-4e90-9787-7d9dcb34ba36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Sign in to your Microsoft account</value>
+      <webElementGuid>8bc1bb0a-a8a0-487b-8555-08f19c1890c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-is-focusable</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ab5c809c-75f7-4ee9-9d17-0f018a4ad4c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in</value>
+      <webElementGuid>3590463b-de95-4c57-bb24-d83c67543ebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-content-landing-react&quot;)/div[@class=&quot;ms-Stack css-157&quot;]/div[@class=&quot;ms-Stack css-158&quot;]/div[@class=&quot;ms-Stack css-159&quot;]/button[@class=&quot;ms-Button ms-Button--primary root-161&quot;]</value>
+      <webElementGuid>164216b2-6587-4120-8016-964835b5fccc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>56daad81-44d9-44e8-b1f6-358e63eba20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main-content-landing-react']/div/div/div/button</value>
+      <webElementGuid>c8ff5715-5b11-450a-a93d-487b218d4e71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in to manage your account.'])[1]/following::button[1]</value>
+      <webElementGuid>47a63562-ccc2-4f2e-b90e-9f223104a331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Microsoft account connects all your Microsoft apps and services.'])[1]/following::button[1]</value>
+      <webElementGuid>2da67243-1fb4-4636-856e-d114f3827249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The best of Microsoft'])[1]/preceding::button[1]</value>
+      <webElementGuid>65146ad5-296e-41ca-8382-af56d321520a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/button</value>
+      <webElementGuid>0248b7c4-f69b-435f-a1dc-60bc67966205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Sign in' or . = 'Sign in')]</value>
+      <webElementGuid>bf8ba7be-7bda-4140-b8b8-305e3621824a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_btnActive</name>
+   <tag></tag>
+   <elementGuidId>d6b3b70a-6e7c-487f-a717-d9f628fa430f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnActive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'btnActive']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Sign In&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>31c992ad-9a5f-4b2c-8f06-352812993630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btnActiveChooser unemphasized signinWidth</value>
+      <webElementGuid>178b2607-0d31-44de-9fdb-50066fab47cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4c13d0ce-6631-4022-b6f3-49c753d5e4d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnActive</value>
+      <webElementGuid>23381b2c-d4aa-4c6a-b250-81f0a1767f80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>onClickSubmit('local');</value>
+      <webElementGuid>b9a7e678-d9a3-44c1-9403-043fa63be212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>btnActive</value>
+      <webElementGuid>42c90f88-ee20-48e7-a901-cbb93ff2d0d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>1dd7cc4e-b0c3-4b6e-9a10-cc54713d8a53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-bbbd9a05f87d33b30e87869b2ce6c7b0</value>
+      <webElementGuid>5f597c5f-8b8b-48e6-a0ff-dc196ec399f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'btnActive']</value>
+      <webElementGuid>6941d7b6-256f-4c61-8a68-a94d2e36be1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'btnActive']</value>
+      <webElementGuid>f1c77357-8921-4b80-9112-d15687d35590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'btnActive' and (text() = 'btnActive' or . = 'btnActive')]</value>
+      <webElementGuid>95ccd150-a799-4b4e-83ce-f1da8cb31095</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

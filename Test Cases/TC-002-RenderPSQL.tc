@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-002-RenderPSQL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7617814e-945d-4a18-a96b-b520011368af</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8a20baa-dc84-4899-870a-fefd5791a33b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Yonex'</defaultValue>
+      <description></description>
+      <id>b8a20baa-dc84-4899-870a-fefd5791a33b</id>
+      <masked>false</masked>
+      <name>Racket</name>
+   </variable>
+</TestCaseEntity>

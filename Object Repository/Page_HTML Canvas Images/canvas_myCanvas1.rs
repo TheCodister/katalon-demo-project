@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>canvas_myCanvas1</name>
+   <tag></tag>
+   <elementGuidId>c8b295b7-ab21-4ff5-bd0e-57ec63ee758a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'div') and (position() = 13)]/canvas</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-child(13) > canvas</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#myCanvas1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>canvas</value>
+      <webElementGuid>296fd086-4e06-482d-ba57-d2bf478446d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>myCanvas1</value>
+      <webElementGuid>396eb9fe-3de1-4379-b3c4-66f0c6f86ab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>240</value>
+      <webElementGuid>04866853-7fc5-4d4c-8b6c-cc012dbe2908</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>297</value>
+      <webElementGuid>0ff747c6-4c03-4647-92ee-0ff4eff02431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>myCanvas1</value>
+      <webElementGuid>0fbb0c30-663f-4ddc-ab39-80a8aaf6ed3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>
+Your browser does not support the HTML5 canvas tag.
+</value>
+      <webElementGuid>f7b6fc34-7316-43ad-9ae2-0e867e6f3925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-425e6aca132a002c5905dd40f36fcbaf</value>
+      <webElementGuid>a12f1e3e-002f-47e4-8c9a-f058cfc6e4c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 13)]/canvas</value>
+      <webElementGuid>788ed00e-19ac-4e95-ae1f-699eb0f56c9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'div') and (position() = 13)]/canvas</value>
+      <webElementGuid>3c7420ca-2780-4a3c-b4a5-a01a3beda64b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//canvas[@id = 'myCanvas1' and (text() = 'myCanvas1' or . = 'myCanvas1')]</value>
+      <webElementGuid>e6392b8d-3907-4cfc-a9d8-3fe3ed05b971</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

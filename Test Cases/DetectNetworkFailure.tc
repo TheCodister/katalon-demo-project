@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DetectNetworkFailure</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eaf87c60-ef40-4c50-8187-fe88349e3cd0</testCaseGuid>
+</TestCaseEntity>

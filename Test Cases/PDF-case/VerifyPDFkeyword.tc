@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VerifyPDFkeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b0358c5-1180-48ce-8b18-d8deef16acaf</testCaseGuid>
+</TestCaseEntity>

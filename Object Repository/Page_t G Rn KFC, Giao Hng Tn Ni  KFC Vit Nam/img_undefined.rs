@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_undefined</name>
+   <tag></tag>
+   <elementGuidId>562061e1-c38b-465c-9e46-1024af373a8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.owl-item:nth-child(4) [alt=&quot;undefined&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' owl-item ') and (position() = 4)]//*[@alt = 'undefined']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(4) > a >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8d91f2fb-e859-46de-ae08-21b2de34df36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>c17cc119-30eb-4f35-9f37-b7a1c6e88ab2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid</value>
+      <webElementGuid>f82949ff-6cc0-42f6-a477-d065ad791370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://static.kfcvietnam.com.vn/images/content/home/carousel/lg/XotCham.jpg?v=gbxJ9L</value>
+      <webElementGuid>a721b0ff-8f1c-4074-be97-4406ce353f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>undefined</value>
+      <webElementGuid>b05c6fd4-296e-4830-927b-aea22b833dd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>undefined</value>
+      <webElementGuid>f4f43916-a1e5-4957-b375-8c21aabe83e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e637e7dbd4298cabd19dc6c876524016</value>
+      <webElementGuid>a58ba806-1e52-4ff0-8795-5b3653d98a12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' owl-item ') and (position() = 4)]//*[@alt = 'undefined']</value>
+      <webElementGuid>0a8f6efb-d514-42da-bd3a-8249d127f20e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' owl-item ') and (position() = 4)]//*[@alt = 'undefined']</value>
+      <webElementGuid>3afad059-c820-4516-be6e-6332633beec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://static.kfcvietnam.com.vn/images/content/home/carousel/lg/XotCham.jpg?v=gbxJ9L' and @alt = 'undefined' and (text() = 'undefined' or . = 'undefined')]</value>
+      <webElementGuid>2a50e1ad-88f9-4d39-b052-b09078c872d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

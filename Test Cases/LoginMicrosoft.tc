@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginMicrosoft</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fa6c1008-52df-4cdd-8ce9-51e984ed9194</testCaseGuid>
+</TestCaseEntity>

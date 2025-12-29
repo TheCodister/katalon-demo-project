@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CustomConsoleLog</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5ceb6f6c-20f9-4725-91bc-ee3cb14258b4</testCaseGuid>
+</TestCaseEntity>

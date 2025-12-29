@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login-RecPlus</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef0080b1-cf21-43ec-9e8d-d009d98a94a4</testCaseGuid>
+</TestCaseEntity>

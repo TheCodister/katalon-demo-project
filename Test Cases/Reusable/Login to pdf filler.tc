@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login to pdf filler</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>142734cb-8f06-4c49-8a26-3fea935ac48d</testCaseGuid>
+</TestCaseEntity>

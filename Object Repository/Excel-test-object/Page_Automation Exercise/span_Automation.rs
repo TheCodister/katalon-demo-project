@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Automation</name>
+   <tag></tag>
+   <elementGuidId>59e7b1a2-9fb8-4f41-9557-aa2c9cd4f3e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slider-carousel']/div/div/div/h1/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;AutomationExercise&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>35861b56-3dc7-4fd6-8d00-a6f334cfc14c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Automation</value>
+      <webElementGuid>06c46a4f-d91c-4218-9691-3abeb7e4f061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slider-carousel&quot;)/div[@class=&quot;carousel-inner&quot;]/div[@class=&quot;item active&quot;]/div[@class=&quot;col-sm-6&quot;]/h1[1]/span[1]</value>
+      <webElementGuid>1f585c86-adf7-4e6b-a6ec-55beefe18e7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slider-carousel']/div/div/div/h1/span</value>
+      <webElementGuid>0d23dec7-e092-4b7f-bd91-4151e5dd6525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact us'])[1]/following::span[1]</value>
+      <webElementGuid>ba08a4a3-585f-4424-acc1-91dd75435ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full-Fledged practice website for Automation Engineers'])[1]/preceding::span[1]</value>
+      <webElementGuid>d9e2a8cb-3096-4cb9-9351-942f8125753d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Cases'])[2]/preceding::span[1]</value>
+      <webElementGuid>d431531c-8c63-448d-a698-2547b0fe6c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Automation']/parent::*</value>
+      <webElementGuid>c5fdbe41-7cc7-42c5-b57e-49dea8b0f252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>2374ecfe-e067-4584-991f-3076ecc34a8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Automation' or . = 'Automation')]</value>
+      <webElementGuid>7ba08482-2142-4a6e-8489-54e51cd39109</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Hng dn s dng dnh cho Ging vin (User guide)_1</name>
+   <tag></tag>
+   <elementGuidId>c38fd07e-cc0b-4064-bf33-efa42adc11f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Khóa học'])[2]/following::h1[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_18_1_1_1750146834312_24</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Hướng dẫn sử dụng dành cho Giảng viên (User guide)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>864e890c-d1f5-4e5c-9622-afbc48dd6444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-animation</name>
+      <type>Main</type>
+      <value>animated ScrollRight</value>
+      <webElementGuid>088784d7-9944-4da6-b817-28c79e333d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>animated ScrollRight</value>
+      <webElementGuid>464ed194-722a-46f1-894c-43bb119a9ef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_3_18_1_1_1750146834312_24</value>
+      <webElementGuid>5ec8fa3a-18d7-4b2f-b4c0-5d55f621bdf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hướng dẫn sử dụng dành cho Giảng viên (User guide)</value>
+      <webElementGuid>d99d19e3-d5d5-4d5a-9e98-f24eaca2929f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_18_1_1_1750146834312_24&quot;)</value>
+      <webElementGuid>b92be5db-73ab-4fe4-bd0c-dc890341d8d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='yui_3_18_1_1_1750146834312_24']</value>
+      <webElementGuid>895de8ed-3d7a-402f-b14d-075c6540bb35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_18_1_1_1750146834312_18']/h1</value>
+      <webElementGuid>2c23e7a8-c1a6-4742-aabd-d75abba17e00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khóa học'])[2]/following::h1[1]</value>
+      <webElementGuid>1d139068-37cd-40c0-9ae0-5c7a250abe6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BKeL Cũ'])[2]/following::h1[1]</value>
+      <webElementGuid>964cf535-911e-405e-a7de-74e78f39155d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem (View)'])[1]/preceding::h1[1]</value>
+      <webElementGuid>8afc97eb-9295-4747-9721-5e61004ecf44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin Hoạt động Sinh viên (Info. Student Affairs)'])[1]/preceding::h1[1]</value>
+      <webElementGuid>b5001911-0333-463e-8f3a-484552d388bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hướng dẫn sử dụng dành cho Giảng viên (User guide)']/parent::*</value>
+      <webElementGuid>2b092699-0357-4b26-a16f-4c8bc8fdceb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>1267e6d4-1dfe-4105-a0c7-16991549aa79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[@id = 'yui_3_18_1_1_1750146834312_24' and (text() = 'Hướng dẫn sử dụng dành cho Giảng viên (User guide)' or . = 'Hướng dẫn sử dụng dành cho Giảng viên (User guide)')]</value>
+      <webElementGuid>23578bd1-3b52-4bb0-b892-dfad3e9bb2d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_w-full h-32 rounded-lg border-2 border-gray-</name>
+   <tag></tag>
+   <elementGuidId>84bc5a32-8cf4-44b4-ade8-fabac3d7bdbd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-testid = 'color-preview']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-testid=&quot;color-preview&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;color-preview&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0c458eed-ee18-426b-b01a-d1e8484c54f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full h-32 rounded-lg border-2 border-gray-200 transition-colors duration-300</value>
+      <webElementGuid>3e2c668a-0e7f-4e77-a926-a86a2320a99b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>color-preview</value>
+      <webElementGuid>fa7bbebc-12ed-436a-93b9-5b50d92b8218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>w-full h-32 rounded-lg border-2 border-gray-</value>
+      <webElementGuid>b9bdc28f-ae85-4274-be6c-cc115596bde7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-936a04d3f418018da9a9c5b8ee51514e</value>
+      <webElementGuid>9638cd0d-bb29-4563-a27c-ff59b8506920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'color-preview']</value>
+      <webElementGuid>ddab1d73-0743-43bb-a4b5-662c087199fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'color-preview']</value>
+      <webElementGuid>bfd3d9f4-1ea1-4cb4-ad94-e28c71fa9912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'w-full h-32 rounded-lg border-2 border-gray-' or . = 'w-full h-32 rounded-lg border-2 border-gray-')]</value>
+      <webElementGuid>01f1b1ed-80aa-4f3d-8769-aea76d5372f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

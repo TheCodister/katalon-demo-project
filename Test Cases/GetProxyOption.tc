@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetProxyOption</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>17a08c90-c6c1-4c79-8f32-0b0115053d8b</testCaseGuid>
+</TestCaseEntity>

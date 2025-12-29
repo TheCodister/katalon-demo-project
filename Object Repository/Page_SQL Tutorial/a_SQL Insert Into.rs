@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_SQL Insert Into</name>
+   <tag></tag>
+   <elementGuidId>2afa905c-6105-4d0a-bb43-99746c784b9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='leftmenuinnerinner']/a[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#leftmenuinnerinner > a:nth-of-type(11)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; SQL Insert Into&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>033d2de2-fb8d-4180-ad04-331006079d5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_top</value>
+      <webElementGuid>ce6843af-8a42-4bdd-803a-cf303e50d78a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>sql_insert.asp</value>
+      <webElementGuid>b4bb59a5-b7db-404c-980c-b741f445f5d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SQL Insert Into</value>
+      <webElementGuid>01a62b66-4cb6-45ae-adaf-c2c451a5fa9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftmenuinnerinner&quot;)/a[11]</value>
+      <webElementGuid>1e6d1ff9-11ec-4e8b-b74b-90a49a4c7e9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='leftmenuinnerinner']/a[11]</value>
+      <webElementGuid>b79e66f9-663e-4348-b7d7-36762cefe80f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'SQL Insert Into')]</value>
+      <webElementGuid>3ec80717-fb13-40d2-8a0f-883f6ba00884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SQL Not'])[1]/following::a[1]</value>
+      <webElementGuid>88210ad7-e5a2-47b5-8387-9611687658b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SQL Or'])[1]/following::a[2]</value>
+      <webElementGuid>807e1528-8dd7-4f08-a926-46997b72783b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SQL Null Values'])[1]/preceding::a[1]</value>
+      <webElementGuid>a4b996b2-3496-4089-9cb0-a3b25807a93f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SQL Update'])[1]/preceding::a[2]</value>
+      <webElementGuid>27e874a8-cb69-4b3e-b9e5-47b2447e1f84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SQL Insert Into']/parent::*</value>
+      <webElementGuid>a1cb33b7-594d-4d5e-a454-7548c9c1c3aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'sql_insert.asp')]</value>
+      <webElementGuid>4ca9711d-0f2f-4496-a2d4-d2f4ff0b31bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a[11]</value>
+      <webElementGuid>3d54c37a-c82f-4fbd-a40c-648549da041f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'sql_insert.asp' and (text() = 'SQL Insert Into' or . = 'SQL Insert Into')]</value>
+      <webElementGuid>6d9557b4-3a15-4bae-ae08-9a1a161ad01c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

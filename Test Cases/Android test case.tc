@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Android test case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>TESTCLOUD_NATIVE_MOBILE</recordOption>
+   <testCaseGuid>b2c8be51-61e5-401e-b451-53b12c392c49</testCaseGuid>
+</TestCaseEntity>

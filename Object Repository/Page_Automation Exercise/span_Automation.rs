@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Automation</name>
+   <tag></tag>
+   <elementGuidId>0b960c80-61c4-4012-a3f7-cbbf0336f573</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slider-carousel']/div/div[2]/div/h1/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.item.active > div.col-sm-6 > h1 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;AutomationExercise&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6d5e17fe-f0a8-4380-a1fa-5ac68a229dcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Automation</value>
+      <webElementGuid>4d304caf-0795-4414-80f6-5613d3b8766d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slider-carousel&quot;)/div[@class=&quot;carousel-inner&quot;]/div[@class=&quot;item active&quot;]/div[@class=&quot;col-sm-6&quot;]/h1[1]/span[1]</value>
+      <webElementGuid>207fbbd8-c3e2-4b81-a0b6-2549243cfc5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slider-carousel']/div/div[2]/div/h1/span</value>
+      <webElementGuid>d46d45fe-ad22-4821-bd60-301780e9d512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APIs list for practice'])[1]/following::span[1]</value>
+      <webElementGuid>579785d1-0aa1-46b3-a4f3-47ece46b45f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full-Fledged practice website for Automation Engineers'])[2]/preceding::span[1]</value>
+      <webElementGuid>033e7d28-e05d-4fcc-b412-102ca8c9e451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Cases'])[3]/preceding::span[1]</value>
+      <webElementGuid>355095a5-2f24-40f3-9c1f-f4bf97c6eaed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h1/span</value>
+      <webElementGuid>7467c330-7618-4bcc-9d5f-0afbbc515a09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Automation' or . = 'Automation')]</value>
+      <webElementGuid>74950bd4-15fe-4fcf-8092-d116524ecc81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

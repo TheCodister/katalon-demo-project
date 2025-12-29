@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Android-local-test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ed80052-5fe7-40f3-8fe0-9707f83c6c55</testCaseGuid>
+</TestCaseEntity>

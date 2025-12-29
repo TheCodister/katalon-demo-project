@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>51c0f31a-3df3-40d8-95ac-007c0cd48cf5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>874dafd1-bbb6-4b8f-af4d-245673062f5c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>874dafd1-bbb6-4b8f-af4d-245673062f5c</id>
+      <masked>false</masked>
+      <name>prod_id</name>
+   </variable>
+</TestCaseEntity>

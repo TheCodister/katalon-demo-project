@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case for logging in to any generic website.</description>
+   <name>Login to Any Website</name>
+   <tag>Login Test,GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83f66442-6958-4cd5-a786-c1c58a3c10fd</testCaseGuid>
+</TestCaseEntity>

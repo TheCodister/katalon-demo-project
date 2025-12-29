@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReadExcelFile-NotUsingExcelKeyword</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f97b0593-e8ef-4fde-872e-73d0964441f5</testCaseGuid>
+</TestCaseEntity>

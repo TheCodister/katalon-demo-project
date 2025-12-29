@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Home</name>
+   <tag></tag>
+   <elementGuidId>a887604f-664c-4acc-86df-ea9eff93780f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' backdrop-blur-xl ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.backdrop-blur-xl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;HomeRacketShuttlecockShoesAccessories&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>c46bf427-8418-4f5a-85bc-c89099537e3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-30 px-6 pt-2 fixed flex max-w-full top-[var(--navbar-height)] inset-x-0 bottom-0 w-screen flex-col gap-2 overflow-y-auto backdrop-blur-xl backdrop-saturate-150 bg-background/70 mt-4</value>
+      <webElementGuid>e4a1bea5-bdca-4c3b-a900-0e57878468a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-open</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>131a3c65-327c-4575-bc02-02b9299b6490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>9e8422d5-4814-49cd-95e0-cb833fdfd702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Home
+Racket
+Shuttlecock
+Shoes
+Accessories</value>
+      <webElementGuid>c933ba31-9edf-472e-9e68-56fb4d55e998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-bc2ec85c0f855f83b76e129a15466545</value>
+      <webElementGuid>02758341-1ba7-4e55-834e-64e479256b35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' backdrop-blur-xl ')]</value>
+      <webElementGuid>a3759f51-90a5-4ba0-906c-d77120dd6a8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' backdrop-blur-xl ')]</value>
+      <webElementGuid>7d0ece46-44b9-4de3-a65a-6a4f21bdcbc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>ef43a786-b451-416c-83c1-8dd532c90ebb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

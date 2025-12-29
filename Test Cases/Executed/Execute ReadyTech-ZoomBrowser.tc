@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Executing the ReadyTech-ZoomBrowser test case.</description>
+   <name>Execute ReadyTech-ZoomBrowser</name>
+   <tag>Execution,GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8687cce3-7af6-4b2f-9150-a9b1ef6032b9</testCaseGuid>
+</TestCaseEntity>

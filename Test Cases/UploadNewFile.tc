@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UploadNewFile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc6c6996-4f05-4b71-8783-e7f48570a634</testCaseGuid>
+</TestCaseEntity>

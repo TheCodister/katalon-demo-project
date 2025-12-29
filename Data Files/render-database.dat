@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>render-database</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>5a321332-092b-4419-928f-2b4eb960c0cc</dataFileGUID>
+   <dataSourceUrl>jdbc:postgresql://localhost:5432/postgres?currentSchema=user</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>QmVuQ3ViZXI=</password>
+   <query>SELECT * FROM &quot;user&quot;.users LIMIT 2;</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>postgres</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

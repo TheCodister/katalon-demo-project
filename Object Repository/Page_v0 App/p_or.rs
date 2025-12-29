@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_or</name>
+   <tag></tag>
+   <elementGuidId>fd9af330-bbb2-4f24-9cb0-528cd55fa19b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-muted-foreground ') and contains(concat(' ', normalize-space(@class), ' '), ' text-sm ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-muted-foreground.text-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;or&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5651ade3-0dc4-436c-83b4-d3aa711fcb4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-sm text-muted-foreground</value>
+      <webElementGuid>f52dee4f-0922-476a-8cbb-3e91a1b41e7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>or</value>
+      <webElementGuid>b7c19f28-1902-4b57-96df-63a8cf267aea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-72d196857a1ed72b0f30606978548359</value>
+      <webElementGuid>deffb482-4e27-43de-b1a9-8fca0d18f007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//p[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-muted-foreground ') and contains(concat(' ', normalize-space(@class), ' '), ' text-sm ')]</value>
+      <webElementGuid>e66b5c42-21cb-4e74-aedb-63a5cd619486</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@class and contains(concat(' ', normalize-space(@class), ' '), ' text-muted-foreground ') and contains(concat(' ', normalize-space(@class), ' '), ' text-sm ')]</value>
+      <webElementGuid>b60d696b-e2ed-4cc7-8eea-5ea4495e31bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'or' or . = 'or')]</value>
+      <webElementGuid>cbdfce3e-dc85-492e-b33b-75e4d85da711</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

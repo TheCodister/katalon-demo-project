@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test-badminton-recorder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>494bc5a3-b061-4cf7-8733-53eba501c839</testCaseGuid>
+</TestCaseEntity>

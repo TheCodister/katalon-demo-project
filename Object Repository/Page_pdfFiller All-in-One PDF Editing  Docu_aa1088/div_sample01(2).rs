@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_sample01(2)</name>
+   <tag></tag>
+   <elementGuidId>90bd6843-837c-49a0-aeb3-195c02a5c58b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dMHPBy ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' yKouIg ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.dMHPBy:nth-child(2) .yKouIg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;virtuoso-item-list&quot;] div >> internal:has-text=&quot;sample01(2)Today at 3:02 AMOpened by YouOpen&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6adf736b-9b68-4bd8-be83-137edba50513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yKouIg</value>
+      <webElementGuid>ef6a2e96-e118-49df-81f9-5a933ba46b55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-project-type</name>
+      <type>Main</type>
+      <value>document</value>
+      <webElementGuid>b8c8f5b2-d509-402c-b584-04d30fa3d451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-qa-tag</name>
+      <type>Main</type>
+      <value>project</value>
+      <webElementGuid>9cf24984-c7cc-417f-ae68-4edbebac26df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>sample01(2)</value>
+      <webElementGuid>0ff90812-6a29-43f4-9e4d-d46f8a626ca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>sample01(2)
+Today at 3:02 AM
+Opened by You
+Open</value>
+      <webElementGuid>20fa7279-e18b-4534-ab90-a8a8ffd7069f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-37477b5a7937dea364fb0eaf7c4ae303</value>
+      <webElementGuid>9b2782ca-94b7-4a05-89c5-18d0eede6660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dMHPBy ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' yKouIg ')]</value>
+      <webElementGuid>e075134d-ba48-408f-9b8f-19b0af8e4ed5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dMHPBy ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' yKouIg ')]</value>
+      <webElementGuid>e16ddad5-48fe-417a-a38d-69702a7521d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'sample01(2)' or . = 'sample01(2)')]</value>
+      <webElementGuid>5b813cee-ba54-46ac-9619-1ce4af651776</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

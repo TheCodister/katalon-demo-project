@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_HTML Color Picker</name>
+   <tag></tag>
+   <elementGuidId>90e74f72-eb47-42c4-baa7-2e665a0eae5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-testid = 'html-color-picker']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-testid=&quot;html-color-picker&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;html-color-picker&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>72738e2f-db9d-4447-9c11-68ef4442cb3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>color-picker</value>
+      <webElementGuid>10acbde9-c76d-4f4e-8245-df1fcc041afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>color</value>
+      <webElementGuid>c2b8af6f-0d43-41bb-b13c-d002538f898b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full h-12 rounded border cursor-pointer</value>
+      <webElementGuid>f83b113b-c5f0-452f-b694-c7508fcd15e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>html-color-picker</value>
+      <webElementGuid>44b70d6b-8529-44d1-9e5f-18cc112bdd08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>#3b82f6</value>
+      <webElementGuid>35732eff-146f-4c5b-9810-f877a6a9100c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HTML Color Picker</value>
+      <webElementGuid>9d66f5c0-9f19-43bd-9df9-19d264021848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-5839192d6a3a6841b1c522fcf619cdc3</value>
+      <webElementGuid>b66e2d8f-29aa-4594-8ca7-f30ea642979a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'html-color-picker']</value>
+      <webElementGuid>0d33a613-06e4-4177-bb78-0e9681fcf52b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-testid = 'html-color-picker']</value>
+      <webElementGuid>03bd2eb4-b8cf-4967-b1d4-c7b9a5b7f13b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'color-picker' and @type = 'color' and (text() = 'HTML Color Picker' or . = 'HTML Color Picker')]</value>
+      <webElementGuid>5aba7af8-0abf-4588-9abd-eb337ad6a7d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

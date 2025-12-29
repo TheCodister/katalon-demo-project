@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get-data-from canvas image</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8dc06e95-928f-4a3d-9e08-fa24b91fdb8a</testCaseGuid>
+</TestCaseEntity>

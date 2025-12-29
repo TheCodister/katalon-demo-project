@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-001-FAIL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>131cc79e-ef9a-4b53-ac80-fec9344362fb</testCaseGuid>
+</TestCaseEntity>

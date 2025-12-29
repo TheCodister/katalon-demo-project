@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Search jobs</name>
+   <tag></tag>
+   <elementGuidId>80872c68-0dbe-4d3e-821f-85cb5d5d810f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = 'https://careers.ti.com/en/sites/CX/jobs']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;https\:\/\/careers\.ti\.com\/en\/sites\/CX\/jobs&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Search jobs&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cff0e928-bce8-48ec-bb75-5909e76794b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ti_p-responsiveHeader-nav-panel-list-link</value>
+      <webElementGuid>78734795-c672-4254-a003-e651a5e36b67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-navtitle</name>
+      <type>Main</type>
+      <value>header_aboutTI_careers_searchJobs</value>
+      <webElementGuid>e4ea7367-18c3-4618-8b3f-b2d8ec58e8ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://careers.ti.com/en/sites/CX/jobs</value>
+      <webElementGuid>258afeb7-4e4b-43b0-84f7-2f39f8d3b599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-di-id</name>
+      <type>Main</type>
+      <value>di-id-b1c972fe-8d53c90e</value>
+      <webElementGuid>70615bbd-c5dc-4bc5-909f-b9eea9672982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search jobs</value>
+      <webElementGuid>3a69dbf5-051f-4d12-892a-06d9dfa60668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Search jobs</value>
+      <webElementGuid>abf7ba8e-4e80-4008-89f9-96ecaf38d033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-cb367ef172a0518d6b4d627dbd636193</value>
+      <webElementGuid>61f0fc33-272a-4ffa-b0f2-32153ebafa74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = 'https://careers.ti.com/en/sites/CX/jobs']</value>
+      <webElementGuid>e98e233b-10b1-4bac-8cef-050199c81050</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = 'https://careers.ti.com/en/sites/CX/jobs']</value>
+      <webElementGuid>d4a8f7fc-be15-482a-a974-93c514830fe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://careers.ti.com/en/sites/CX/jobs' and (text() = 'Search jobs' or . = 'Search jobs')]</value>
+      <webElementGuid>028face2-cd2d-4c10-9cf4-ba2fa8fa3215</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test-lms-login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6132c111-9a05-4dfa-b1cc-416201650349</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>2b262ee5-30e5-48ae-a56d-d5f325238f69</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/csv-testdata</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>2b262ee5-30e5-48ae-a56d-d5f325238f69</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>4dba6952-da1e-4c6d-a720-dccf481fe3bb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>2b262ee5-30e5-48ae-a56d-d5f325238f69</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>43d98918-242f-4477-bccb-db5482a7ff76</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'quang.nguyen26012907'</defaultValue>
+      <description></description>
+      <id>4dba6952-da1e-4c6d-a720-dccf481fe3bb</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'K5koAvXt0fROu3CEq4l1EA=='</defaultValue>
+      <description></description>
+      <id>43d98918-242f-4477-bccb-db5482a7ff76</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

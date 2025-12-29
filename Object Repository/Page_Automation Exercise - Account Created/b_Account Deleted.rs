@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Account Deleted</name>
+   <tag></tag>
+   <elementGuidId>0d7470be-0dce-47a7-a044-d821f8d86200</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Account Deleted!&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>3ab2afae-de13-4c6a-ace1-65788168bf85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ACCOUNT DELETED</value>
+      <webElementGuid>cc0a82a4-a04d-453e-be0b-b740a2d3509e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>8c940d44-e300-442d-983b-a6c58fafcc43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>ACCOUNT DELETED!</value>
+      <webElementGuid>5e0a82e8-65d7-419b-a726-db466d5864b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-921f55032c5f54c77a158c367995af2b</value>
+      <webElementGuid>10fc57f2-f396-4944-abc2-b47d57042450</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>cf616b26-fe20-4269-86d3-56d281b9232f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'ACCOUNT DELETED' or . = 'ACCOUNT DELETED')]</value>
+      <webElementGuid>706a271c-7825-4c66-bcb8-953da8651e71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='form']/div/div/div/h2/b</value>
+      <webElementGuid>1a2a0b27-cb7d-4834-a8f6-7f6e20d9d6df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact us'])[1]/following::b[1]</value>
+      <webElementGuid>c6eeb5a1-fef7-48b3-b0ec-2a4550e16ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Tutorials'])[1]/following::b[1]</value>
+      <webElementGuid>2bc9bc0d-817f-46e4-b441-321e6439eef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::b[1]</value>
+      <webElementGuid>eee39305-2e56-4f46-a61c-71a5a0b77cc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have been successfully subscribed!'])[1]/preceding::b[1]</value>
+      <webElementGuid>e58ba68d-e26a-428d-b3af-d960acf16cf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Account Deleted!']/parent::*</value>
+      <webElementGuid>3e83139b-8497-48fc-95e2-5449e515cb58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>cb58c0ba-3ec7-4d3a-919c-c7ead4e1b3e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Account Deleted!' or . = 'Account Deleted!')]</value>
+      <webElementGuid>ae775dd4-1f33-4b1a-bd54-839cdb32ae2a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

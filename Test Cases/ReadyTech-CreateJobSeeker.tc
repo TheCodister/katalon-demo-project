@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ReadyTech-CreateJobSeeker</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90c2b153-2e59-48e3-ac10-066e934836c9</testCaseGuid>
+</TestCaseEntity>

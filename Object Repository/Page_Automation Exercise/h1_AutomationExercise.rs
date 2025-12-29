@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_AutomationExercise</name>
+   <tag></tag>
+   <elementGuidId>19fb80fa-08bb-4dda-b173-2ffa17be1105</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' item ') and (position() = 1)]//h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.item:nth-child(1) h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;AutomationExercise&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>999ab951-631c-438f-b909-a48b079c5566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AutomationExercise</value>
+      <webElementGuid>c9a28dad-c620-4487-af0b-daae8d133c28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>AutomationExercise</value>
+      <webElementGuid>b2e1e450-5b1b-48ab-b40e-a118cfb558a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-72c9c737b8517c44ac77c20382b9f49e</value>
+      <webElementGuid>149179c5-aed3-40a8-b291-fc395387b293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' item ') and (position() = 1)]//h1</value>
+      <webElementGuid>6e768c21-2a80-425b-a09b-3ebf3ca7a1ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' item ') and (position() = 1)]//h1</value>
+      <webElementGuid>0f1e9687-383c-49fe-ad97-590875f6cdae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'AutomationExercise' or . = 'AutomationExercise')]</value>
+      <webElementGuid>4adfec1b-f4fc-4e77-8e0b-da261ed67830</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

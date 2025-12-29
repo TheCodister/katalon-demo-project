@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>canvas_Your browser does not support the HT_984762</name>
+   <tag></tag>
+   <elementGuidId>d4ee4e28-68db-4c10-9d5e-e7b5fdb92bbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//canvas[@id='myCanvas1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#myCanvas1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#myCanvas1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>canvas</value>
+      <webElementGuid>3fefcfee-aa4b-4acc-8f9a-a764cb5a1ede</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>myCanvas1</value>
+      <webElementGuid>29eb6f19-0bf4-4e08-b2a4-eda4ac4df2d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>300</value>
+      <webElementGuid>5b6b8e14-aadf-45d6-b698-8d55750bd4c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>150</value>
+      <webElementGuid>7363d7ee-9715-4e96-b797-96b210f4f9a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Your browser does not support the HTML5 canvas tag.
+</value>
+      <webElementGuid>267178d6-84a0-48b7-b270-435224836ee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myCanvas1&quot;)</value>
+      <webElementGuid>c8226b8b-8955-4d6b-9ccf-33e9f38f6834</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//canvas[@id='myCanvas1']</value>
+      <webElementGuid>996747cf-c2d0-4d65-b9fa-3b455d96e111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[3]/canvas</value>
+      <webElementGuid>ffa07873-1391-47b1-90b0-b4390d2ceb00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Example'])[1]/following::canvas[1]</value>
+      <webElementGuid>96860efc-c416-4b6c-9b53-b402bb9bb696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optional. The maximum width of the text-string'])[1]/following::canvas[1]</value>
+      <webElementGuid>7c4d1025-f177-4769-bc7a-1fbd25e36787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;'])[1]/preceding::canvas[1]</value>
+      <webElementGuid>59a8780e-d813-4b61-98b9-c8e7a82418bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your browser does not support the HTML5 canvas tag.']/parent::*</value>
+      <webElementGuid>e75cbaca-a975-4652-8605-9059b5d7dbda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//canvas</value>
+      <webElementGuid>2342df4f-bdfb-4152-8187-b454a0c44db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//canvas[@id = 'myCanvas1' and (text() = '
+Your browser does not support the HTML5 canvas tag.
+' or . = '
+Your browser does not support the HTML5 canvas tag.
+')]</value>
+      <webElementGuid>9a0b9d23-a7d5-48ce-bd95-6b34b32cbaae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

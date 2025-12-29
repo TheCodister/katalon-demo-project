@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_SQL INSERT INTO Statement</name>
+   <tag></tag>
+   <elementGuidId>b59162e8-30b4-417e-bf8f-3c795cceff09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.with-bookmark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Click to add bookmark SQL INSERT INTO Statement&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>792aaf8d-7d7e-44e9-9cad-c3c9312df987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>with-bookmark</value>
+      <webElementGuid>97abaffb-e85c-415c-833c-671e6fd22d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SQL INSERT INTO Statement</value>
+      <webElementGuid>7890db4a-e2f4-481d-934f-c465c7396f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/h1[@class=&quot;with-bookmark&quot;]</value>
+      <webElementGuid>443b9647-057d-42b6-b470-8bc948cb3e6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/h1</value>
+      <webElementGuid>84c98a83-e5d2-4037-9897-b7424999459b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SQL Training'])[1]/following::h1[1]</value>
+      <webElementGuid>4656050d-185b-4827-831b-b08dce42a4c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SQL Certificate'])[1]/following::h1[1]</value>
+      <webElementGuid>e3a81fd9-18a9-4960-b7f5-06faefef3f06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='❮ Previous'])[1]/preceding::h1[1]</value>
+      <webElementGuid>8f7b9d41-0097-4006-ace6-65d783f4dddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>2019bb3e-b665-43b5-a776-630c8e756781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'SQL INSERT INTO Statement' or . = 'SQL INSERT INTO Statement')]</value>
+      <webElementGuid>b84e1640-bdae-4987-9f8b-543ef1d315f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

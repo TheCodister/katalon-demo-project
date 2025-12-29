@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-WrongObjectName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1eba56c5-1f9f-4270-8950-7a9e46b75653</testCaseGuid>
+</TestCaseEntity>

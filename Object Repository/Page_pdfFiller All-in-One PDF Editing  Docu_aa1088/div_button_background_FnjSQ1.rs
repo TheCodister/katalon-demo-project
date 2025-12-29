@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_button_background_FnjSQ1</name>
+   <tag></tag>
+   <elementGuidId>d214df1a-2114-4d73-9594-30c0fdeb7cd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dMHPBy ') and (position() = 2)]//*[@data-qa-tag = 'open_button']//*[(name() = 'div') and (position() = 1)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.dMHPBy:nth-child(2) [data-qa-tag=&quot;open_button&quot;] div:nth-child(1)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Open&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d000d039-cfc7-4ebe-834b-8646eff097ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button__background_FnjSQ1</value>
+      <webElementGuid>f0308647-fff2-4028-8bc1-7b41c9fdcbd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>button_background_FnjSQ1</value>
+      <webElementGuid>bc93278c-5121-4c38-becc-4b4db299e767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-34741e6131f8042f7557167de2bdf9aa</value>
+      <webElementGuid>634625ad-0edc-4256-9dbf-61a5c83a0ac0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dMHPBy ') and (position() = 2)]//*[@data-qa-tag = 'open_button']//*[(name() = 'div') and (position() = 1)]</value>
+      <webElementGuid>e87656d1-ccd6-4a49-9646-08d68a071aae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' dMHPBy ') and (position() = 2)]//*[@data-qa-tag = 'open_button']//*[(name() = 'div') and (position() = 1)]</value>
+      <webElementGuid>92c967b1-f5e6-4394-8cb0-c7ea3961a4cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'button_background_FnjSQ1' or . = 'button_background_FnjSQ1')]</value>
+      <webElementGuid>2172596b-3efd-46a2-bb8f-9c37e11d1a2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

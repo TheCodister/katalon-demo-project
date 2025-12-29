@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Email address or mobile number_btn -_ec363d</name>
+   <tag></tag>
+   <elementGuidId>1a2071b3-c964-415d-a8b8-67c1185daa21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.-primary.u-full-width.u-spacer-margin-bottom-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Log in with secure code&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b3bed057-7bce-41b4-9154-3b71e13d6bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn -primary u-full-width u-spacer-margin-bottom-md</value>
+      <webElementGuid>1fa39ecd-fa73-43fc-97dd-671ba2a6b78d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>88faa81d-1ad7-4bbb-9e03-0a22aa0b535f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in with secure code</value>
+      <webElementGuid>185181dc-87a0-41f6-885a-aac79a071a1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;portal&quot;]/main[@class=&quot;layout&quot;]/div[@class=&quot;content&quot;]/div[1]/div[@class=&quot;o-container -narrow&quot;]/div[@class=&quot;u-spacer-margin-xxl&quot;]/section[1]/form[1]/div[1]/button[@class=&quot;btn -primary u-full-width u-spacer-margin-bottom-md&quot;]</value>
+      <webElementGuid>930d0d63-e8fb-40d4-b8e1-0c4ec0ba90a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>d73a4c2c-7231-4a22-8906-3dce0444e61c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address or mobile number'])[1]/following::button[1]</value>
+      <webElementGuid>30c519d1-7f0a-4120-a289-78e7599b79ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in to MyAccount'])[2]/following::button[1]</value>
+      <webElementGuid>1a08a396-e2bd-4de6-90cc-15a6824d39fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue with password'])[1]/preceding::button[1]</value>
+      <webElementGuid>59f7acef-3b87-47ea-b6c5-9977e07faee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need to register for MyAccount?'])[1]/preceding::button[2]</value>
+      <webElementGuid>7130463e-8bb2-477d-a24c-c5fe9416ed70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log in with secure code']/parent::*</value>
+      <webElementGuid>1e8ab8c1-e70d-41cd-ae30-9b5b3f6dce07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>ad448b8b-75d2-477e-9776-e5548f6792a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Log in with secure code' or . = 'Log in with secure code')]</value>
+      <webElementGuid>f01ab3ec-2e82-4f7c-b89a-fd231a50eb74</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

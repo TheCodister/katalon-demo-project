@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Recorde-with-shadowDOM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>72e0d23b-2a17-40cc-957d-c74c474cb949</testCaseGuid>
+</TestCaseEntity>

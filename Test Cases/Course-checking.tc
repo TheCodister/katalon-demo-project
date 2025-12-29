@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Course-checking</name>
+   <tag>Functionality-testing</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3906a985-96bc-4730-acce-ba335dfefd4d</testCaseGuid>
+</TestCaseEntity>

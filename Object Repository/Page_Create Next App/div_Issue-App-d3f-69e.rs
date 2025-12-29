@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Issue-App-d3f-69e</name>
+   <tag></tag>
+   <elementGuidId>e2c09750-290e-486c-a576-7d82aa909045</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@aria-label = 'Open issues overlay']/*[(name() = 'div') and (position() = 2)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Open issues overlay&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c1db2fc8-6a02-4743-bfd0-4a580429a1b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Issue</value>
+      <webElementGuid>d6076686-ee9f-44ee-bf2e-9927c971578b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Issue</value>
+      <webElementGuid>b23d93ff-84ba-4725-b28c-b3490bd4f03b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0d45ddc1c497cbc0e561170ad7edd8e1</value>
+      <webElementGuid>b22a9735-9c08-4840-8ba6-b89ab1a06fa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@aria-label = 'Open issues overlay']/*[(name() = 'div') and (position() = 2)]</value>
+      <webElementGuid>1136ec70-e702-470a-b5ed-40005269e19e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Create Next App/nextjs-portal_nextjs-portal-ext App-d3f</value>
+      <webElementGuid>59fe5426-9ff4-459c-b4b6-cb93d045d3eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>54dd2c7c-4c44-42ed-a34d-936b6bf1407a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@aria-label = 'Open issues overlay']/*[(name() = 'div') and (position() = 2)]</value>
+      <webElementGuid>a901a9e9-accc-4f2f-9aac-f7525f051b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Issue' or . = 'Issue')]</value>
+      <webElementGuid>6791be69-7a57-4137-8696-1d93422a16f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

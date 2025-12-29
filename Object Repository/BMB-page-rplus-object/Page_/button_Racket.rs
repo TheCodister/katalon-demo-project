@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Racket</name>
+   <tag></tag>
+   <elementGuidId>3abb31e9-6f27-402d-b84f-b07a2f0d717c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'li') and (position() = 2)]//button[@class and contains(concat(' ', normalize-space(@class), ' '), ' transform-gpu ') and contains(concat(' ', normalize-space(@class), ' '), ' appearance-none ') and contains(concat(' ', normalize-space(@class), ' '), ' subpixel-antialiased ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-medium ') and contains(concat(' ', normalize-space(@class), ' '), ' font-semibold ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' whitespace-nowrap ') and contains(concat(' ', normalize-space(@class), ' '), ' motion-reduce:transition-none ') and contains(concat(' ', normalize-space(@class), ' '), ' text-white ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-child(2) button.transform-gpu.appearance-none.subpixel-antialiased.rounded-medium.font-semibold.bg-primary.whitespace-nowrap.motion-reduce\:transition-none.text-white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Racket&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cf167891-2995-4daf-a0e7-17279b13c211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-0 group relative inline-flex items-center justify-center box-border appearance-none select-none whitespace-nowrap subpixel-antialiased overflow-hidden tap-highlight-transparent transform-gpu data-[pressed=true]:scale-[0.97] outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 px-4 min-w-20 h-10 text-small gap-2 rounded-medium [&amp;>svg]:max-w-[theme(spacing.8)] transition-transform-colors-opacity motion-reduce:transition-none bg-primary data-[hover=true]:opacity-hover text-white font-semibold</value>
+      <webElementGuid>8e22e008-eb62-4995-ad20-ab126fed99ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3eb6d327-419d-4e28-a87a-90aa86ccb40f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Racket</value>
+      <webElementGuid>f80f1f94-443d-4f0e-b6e7-4132bc64cc3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Racket</value>
+      <webElementGuid>2a14def0-74fd-457e-808e-eb9e033a0372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e946de9c7ca3efa9d19459a93a8dea26</value>
+      <webElementGuid>b1a7e578-fee5-4cb2-acc8-d96009122da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'li') and (position() = 2)]//button[@class and contains(concat(' ', normalize-space(@class), ' '), ' transform-gpu ') and contains(concat(' ', normalize-space(@class), ' '), ' appearance-none ') and contains(concat(' ', normalize-space(@class), ' '), ' subpixel-antialiased ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-medium ') and contains(concat(' ', normalize-space(@class), ' '), ' font-semibold ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' whitespace-nowrap ') and contains(concat(' ', normalize-space(@class), ' '), ' motion-reduce:transition-none ') and contains(concat(' ', normalize-space(@class), ' '), ' text-white ')]</value>
+      <webElementGuid>e880337a-dd7d-40fd-8d85-05a5752b506b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'li') and (position() = 2)]//button[@class and contains(concat(' ', normalize-space(@class), ' '), ' transform-gpu ') and contains(concat(' ', normalize-space(@class), ' '), ' appearance-none ') and contains(concat(' ', normalize-space(@class), ' '), ' subpixel-antialiased ') and contains(concat(' ', normalize-space(@class), ' '), ' rounded-medium ') and contains(concat(' ', normalize-space(@class), ' '), ' font-semibold ') and contains(concat(' ', normalize-space(@class), ' '), ' bg-primary ') and contains(concat(' ', normalize-space(@class), ' '), ' whitespace-nowrap ') and contains(concat(' ', normalize-space(@class), ' '), ' motion-reduce:transition-none ') and contains(concat(' ', normalize-space(@class), ' '), ' text-white ')]</value>
+      <webElementGuid>fa927fb7-533f-4e5d-bda8-6a393eafb04a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Racket' or . = 'Racket')]</value>
+      <webElementGuid>df8adcba-ca2a-4457-9a3b-fea14e0f7eac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

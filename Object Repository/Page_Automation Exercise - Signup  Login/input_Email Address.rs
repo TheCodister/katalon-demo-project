@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Email Address</name>
+   <tag></tag>
+   <elementGuidId>c8f79014-439f-4d79-ae78-6846003d050d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-qa = 'login-email']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-qa=&quot;login-email&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>form >> internal:has-text=&quot;Login&quot;i >> internal:attr=[placeholder=&quot;Email Address&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b3fa24d2-770b-48fb-bd95-369f9ebaf677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>3eb1b7d2-d3bd-4e98-b960-1ebfcd79d19d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-qa</name>
+      <type>Main</type>
+      <value>login-email</value>
+      <webElementGuid>292d0f3a-26ec-4653-af63-bdb2d187945f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Email Address</value>
+      <webElementGuid>2f1d01d7-2da1-404a-bcf8-771789a32952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>email</value>
+      <webElementGuid>d86f0ac0-b391-454c-94d8-54511695eff1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email Address</value>
+      <webElementGuid>36b67cbf-4a75-4883-8a0a-89c248e313b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-588b938757a2b6ba54a60a619f3876c3</value>
+      <webElementGuid>cf579f5a-f533-486a-9dfe-ed97f03507b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-qa = 'login-email']</value>
+      <webElementGuid>dd5a3263-50c8-44fd-8174-d6b93eeef73f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-qa = 'login-email']</value>
+      <webElementGuid>afafd894-2132-4f8e-9706-de2c79156a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'email' and @placeholder = 'Email Address' and @name = 'email' and (text() = 'Email Address' or . = 'Email Address')]</value>
+      <webElementGuid>a12601f5-4817-4280-bcfd-bdd8a3d46eec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

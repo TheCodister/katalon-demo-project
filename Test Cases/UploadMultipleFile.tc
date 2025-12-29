@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UploadMultipleFile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f0d2731-26ca-4b96-b73b-f9674236ef4c</testCaseGuid>
+</TestCaseEntity>

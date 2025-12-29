@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_New Job Seeker</name>
+   <tag></tag>
+   <elementGuidId>59a001b5-a6ab-445d-b239-45139c7aef6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@title = 'New Job Seeker']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[title=&quot;New\ Job\ Seeker&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;New Job Seeker&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1f3f69d5-6111-47ad-9064-2f86e9fb8036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jobseekers/new</value>
+      <webElementGuid>12ab76b7-7b10-4943-9b3d-1a613752176d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>New Job Seeker</value>
+      <webElementGuid>64ae9896-364b-4eb0-a8a4-2ec0e4f5b77e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-modal</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3655eb6d-40f5-4cd5-9459-b0adecc1f565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-turbo</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>fabc2557-1b16-4957-96a6-772ebb4eef43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>add51</value>
+      <webElementGuid>7c46ead7-558c-436a-bffd-d1772f6cc475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Job Seeker</value>
+      <webElementGuid>ed667a6b-c5b9-4699-9ca5-d35356abac3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>New Job Seeker</value>
+      <webElementGuid>c086070f-b2e6-4e80-bb9b-f1fd346be158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-cef860ce703569674764f68064b52f2a</value>
+      <webElementGuid>d54d626e-8800-4bf3-b5f8-b6889806a13d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@title = 'New Job Seeker']</value>
+      <webElementGuid>38cd7d2c-b55d-4eeb-81e2-ee3d8275bb04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@title = 'New Job Seeker']</value>
+      <webElementGuid>030a2733-e067-42b8-8b79-92dae04a1503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/jobseekers/new' and @title = 'New Job Seeker' and @id = 'add51' and (text() = 'New Job Seeker' or . = 'New Job Seeker')]</value>
+      <webElementGuid>47f51c39-83e8-4605-ba49-3fc914be8ab7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Download-verify</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85f3cca6-4a7f-42ed-85fe-681040391ed6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>canvas_ValueMonthSample Monthly Data Chart010203</name>
+   <tag></tag>
+   <elementGuidId>b404e5ef-5a7e-4613-9a01-a9d757347340</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>canvas</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//canvas</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;ValueMonthSample Monthly Data Chart0102030405060708090 JanuaryFebruaryMarchApril&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>canvas</value>
+      <webElementGuid>7ac438b1-83f9-477d-8beb-e2d506f77a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>848</value>
+      <webElementGuid>d6a4525f-98dd-4510-a49f-b8c3d933c685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>384</value>
+      <webElementGuid>ece66aaa-b420-4346-81d1-203cfc1acbf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ValueMonthSample Monthly Data Chart010203</value>
+      <webElementGuid>6c2f0faf-7e55-4347-a1f3-224accdd8cec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>ValueMonthSample Monthly Data Chart0102030405060708090
+JanuaryFebruaryMarchAprilMayJuneJuly
+Monthly SalesMonthly Expenses</value>
+      <webElementGuid>5281959c-4b51-421b-8d15-2f498279c49b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-3f68b1796b01911bf7b8b13cfca5fbcb</value>
+      <webElementGuid>94171b01-240b-4bae-aa48-44c2e6fe422c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//canvas</value>
+      <webElementGuid>dc6a3d49-4a6b-4b5e-aad1-b0eb4fb18a26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//canvas</value>
+      <webElementGuid>b41fcc59-c3f8-4c54-b08e-19365bd14614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//canvas[(text() = 'ValueMonthSample Monthly Data Chart010203' or . = 'ValueMonthSample Monthly Data Chart010203')]</value>
+      <webElementGuid>2429ca99-322b-43db-8044-da527967db4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

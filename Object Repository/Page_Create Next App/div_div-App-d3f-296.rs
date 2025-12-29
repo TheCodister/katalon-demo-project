@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_div-App-d3f-296</name>
+   <tag></tag>
+   <elementGuidId>86f290b4-3f05-4860-9743-f60dcd539bd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@data-nextjs-dialog-backdrop = 'true']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-nextjs-dialog-backdrop=&quot;true&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>nextjs-portal > div:nth-child(7) > div >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>68002b70-edf5-45cc-84a7-29c2636f8439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nextjs-dialog-backdrop</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b42ec164-5fc6-4706-8483-a2ecf09a6774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a28584f1-301c-4cbb-a732-1db9b68e82fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-0a1a162e1500b7b28aaf271efae4e3e4</value>
+      <webElementGuid>7f3f2afe-bff3-4000-9e27-1f4e614ceaba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-nextjs-dialog-backdrop = 'true']</value>
+      <webElementGuid>bb04d8e4-dd26-4dd4-88e8-b21aa4392418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Create Next App/nextjs-portal_nextjs-portal-ext App-d3f</value>
+      <webElementGuid>92923d16-17bc-49fa-b4f5-420b278beb1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f6235319-f3e4-491a-8e9b-aa60e271c69d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-nextjs-dialog-backdrop = 'true']</value>
+      <webElementGuid>0c49cc3e-4e5b-40c3-84e9-e4d5c6796be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'div' or . = 'div')]</value>
+      <webElementGuid>d7b0bc23-2e93-4339-837c-0b86d5e28295</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

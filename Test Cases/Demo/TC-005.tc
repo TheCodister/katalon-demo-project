@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-005</name>
+   <tag>badminton</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fa2ccf43-fc1c-47a3-984a-af9d5ef349d2</testCaseGuid>
+</TestCaseEntity>

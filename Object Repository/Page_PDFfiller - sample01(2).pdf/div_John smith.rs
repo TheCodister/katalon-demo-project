@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_John smith</name>
+   <tag></tag>
+   <elementGuidId>c24a0be6-fed9-42d6-8d0b-7010fe45c8c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[data-test=&quot;textSignatureText&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test=&quot;textSignatureText&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cd6f09c3-8a4a-4fef-8c99-479bda7a5290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>signTextTool elementHover-Content</value>
+      <webElementGuid>47b19863-77a7-4706-9711-1c62d0269d56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>textSignatureText</value>
+      <webElementGuid>57b1aec9-cccf-4366-b466-abdb7058243f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>textSignatureText</value>
+      <webElementGuid>57e6d9a3-f50f-4a7f-9334-2b90223c2ec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>John smith</value>
+      <webElementGuid>cb4be55e-8a0d-42b8-887a-a45e063e622a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>John smith</value>
+      <webElementGuid>95c26e67-1bc4-49af-955d-72ee9907d552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e8ed24f81b97ebe3cbd1d8950a96c317</value>
+      <webElementGuid>b8a83f4d-2576-44df-83d5-7f0b4a611402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@data-test = 'textSignatureText']</value>
+      <webElementGuid>9643ca65-32b1-4019-a8b7-8bbd3e108acf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@data-test = 'textSignatureText']</value>
+      <webElementGuid>cc7733e9-d5a9-4016-af35-837dfaac36da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'John smith' or . = 'John smith')]</value>
+      <webElementGuid>1243a1fd-0fac-4ab0-bf8a-b725324a8b64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

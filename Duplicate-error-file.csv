@@ -1,0 +1,13 @@
+Test Case Name,Status,Location Path,Automation Status,Priority,Feature Areas,Test Types,Description,Precondition,Step Description,Expected Result,Test Data,Requirement Linkage
+Home Page re-load actions from menus,Ready To Review,OUR_CLIENT > Home Page UI v2 (New UI) > Home Page - General,Functional,High,Home Page - General,Regression,,,"From the left-hand menu, click the customer logo and verify that the Home Page reloads.",,,
+,,,,,,,,,"After clicking the customer logo, verify that all previously expanded or collapsed sections remain in the same state.",,,
+,,,,,,,,,"From the left-hand menu, click ""Home"" and verify that the Home Page reloads.",,,
+,,,,,,,,,"After clicking ""Home,"" verify that all previously expanded or collapsed sections remain in the same state.",,,
+,,,,,,,,,"Open a Matter, then from the TOP ""Current Case"" menu, select ""Close"" and verify that the Home Page reloads.",,,
+,,,,,,,,,"After closing the Matter, verify that all previously expanded or collapsed sections remain in the same state.",,,
+,,,,,,,,,"Note: Do not use ""Unlock"" in the Matter menu, as it navigates to the Matter Search screen instead of the Home Page.",,,
+,,,,,,,,,"Open an Entity or Participant, then from the TOP ""Current Participant/Entity"" menu, select ""Close Participant/Entity"" and verify that the Home Page reloads.",,,
+,,,,,,,,,"After closing the Entity or Participant, verify that all previously expanded or collapsed sections remain in the same state.",,,
+,,,,,,,,,"Note: Do not use ""Unlock"" in the Entity menu, as it navigates to the Entity Search screen instead of the Home Page.",,,
+Top Banner - Current Entity and Current Matter banner items will be displayed when the user has a record open,Ready To Review,OUR_CLIENT > Home Page UI v2 (New UI) > Home Page - General,Functional,Medium,Home Page - General,Regression,,,Hide the ‘Current Entity’ (Current Participant) and ‘Current Matter’ (Current Case) banner items if the user does not have an open Entity or Matter record.,,,
+,,,,,,,,,Show ‘Current Entity when the user has an Entity record open Show ‘Current Matter’ when the user has a Matter record open,,,

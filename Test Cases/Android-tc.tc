@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Android-tc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>TESTCLOUD_NATIVE_MOBILE</recordOption>
+   <testCaseGuid>862006e7-ce5c-4638-9f2b-23f306dbbc6b</testCaseGuid>
+</TestCaseEntity>

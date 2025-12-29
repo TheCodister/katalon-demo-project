@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Find your role</name>
+   <tag></tag>
+   <elementGuidId>d44e60a2-73c2-4d67-8765-b32e7402d5b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1//span//span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1 span span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#main >> internal:text=&quot;Find your role&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>210d3ea3-0ffb-495b-8995-c1adac5b2b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find your role</value>
+      <webElementGuid>786bd56a-a7ac-41ca-aa8d-8416039d9ee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>@text</name>
+      <type>Main</type>
+      <value>Find your role</value>
+      <webElementGuid>7d0a912e-2bc7-4edc-af3b-4fd6b28e9bdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-190c2394bcd3c8f86f41644961f8765a</value>
+      <webElementGuid>fc178dd2-32cc-481d-a0e4-1d7724cd166a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h1//span//span</value>
+      <webElementGuid>efad05b2-f9dd-4fa7-9b1c-63653ba06494</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1//span//span</value>
+      <webElementGuid>cc5400dc-5bb5-46ea-b5d0-41d0b8420619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Find your role' or . = 'Find your role')]</value>
+      <webElementGuid>df27d04b-9761-49a0-909b-691da77bd7f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
