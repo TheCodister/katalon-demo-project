@@ -17,12 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import internal.GlobalVariable
-
 // --- Your Test Case Script ---
-
 // This keyword will populate the global variables
-CustomKeywords.'getOSutil.Session.getOperatingSystem'()
+WebUI.openBrowser('')
 
-// You can now use these Global Variables in your test 
+WebUI.navigateToUrl('http://localhost:3000/')
+
+WebUI.click(findTestObject('Object Repository/Page_Create Next App/a_Read our docs'))
+
+WebUI.closeBrowser()
+

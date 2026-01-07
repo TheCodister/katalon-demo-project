@@ -16,10 +16,13 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import com.katalon.testcloud.FileExecutor as TestCloudKeyword
 import internal.GlobalVariable as GlobalVariable
+import com.kms.katalon.core.logging.KeywordLogger as KeywordLogger
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.configuration.RunConfiguration
 import com.kms.katalon.core.util.KeywordUtil
 import java.nio.file.Paths
+
+KeywordLogger log = new KeywordLogger()
 
 WebUI.openBrowser('')
 WebUI.navigateToUrl('https://v0-file-upload-app-three.vercel.app/')
@@ -31,6 +34,8 @@ String projectSubFolder = "ExcelDatafile" // <-- Change this if your file is in 
 // RunConfiguration.getProjectDir() gets the root path, regardless of OS
 String absolutePath = Paths.get(RunConfiguration.getProjectDir(), projectSubFolder, fileName).toString()
 
+log.logInfo("Call successfully")
+
 KeywordUtil.logInfo("Resolved upload path: " + absolutePath)
 
 // Upload the file
@@ -39,10 +44,14 @@ CustomKeywords.'com.katalon.testcloud.FileExecutor.uploadFileToWeb'(
     absolutePath  // Use the guaranteed absolute path
 )
 
+log.logWarning("This is a warning")
+
 // Get file content using the ABSOLUTE path
 String fileContent = CustomKeywords.'com.katalon.testcloud.FileExecutor.getFileContent'(absolutePath)
 println(absolutePath)
 String decodedBytes = Base64.getDecoder().decode(fileContent)
 println(decodedBytes)  // Changed from print to println for better console logging
+
+log.logFailed("The element appear")
 
 WebUI.closeBrowser()
