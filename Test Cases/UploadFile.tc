@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>UploadFile</name>
-   <tag></tag>
+   <tag>pickleball,badminton</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>8795ffe8-6775-4993-80f3-5cade2c89859</testCaseGuid>

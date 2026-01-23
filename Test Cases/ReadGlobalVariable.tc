@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>UploadNewFile</name>
-   <tag>pickleball,badminton</tag>
+   <name>ReadGlobalVariable</name>
+   <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>fc6c6996-4f05-4b71-8783-e7f48570a634</testCaseGuid>
+   <testCaseGuid>6c0f33be-9837-48d4-8d93-d3f0cb22ac01</testCaseGuid>
 </TestCaseEntity>

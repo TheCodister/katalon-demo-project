@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>Android-tc-fold-4</name>
-   <tag></tag>
+   <tag>badminton</tag>
    <comment></comment>
    <recordOption>TESTCLOUD_NATIVE_MOBILE</recordOption>
    <testCaseGuid>ad1ad688-a92e-48cb-a9ad-59fb93ecc24b</testCaseGuid>

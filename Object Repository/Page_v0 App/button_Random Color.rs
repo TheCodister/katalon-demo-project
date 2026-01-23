@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@data-testid = 'random-color-btn</value>
+         <value>//*[@data-testid = 'random-color-btn']</value>
       </entry>
       <entry>
          <key>CSS</key>
