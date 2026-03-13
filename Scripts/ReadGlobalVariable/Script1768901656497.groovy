@@ -18,4 +18,4 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 print(GlobalVariable.G_0)
-print(GlobalVariable.G_1)
+print(GlobalVariable.AnimalName)

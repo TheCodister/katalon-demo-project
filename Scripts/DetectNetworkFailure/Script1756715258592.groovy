@@ -17,3 +17,5 @@ if (CustomKeywords.'networkUtil.ConnectionErrorDetector.isConnectionInterruptedE
 }
 
 WebUI.closeBrowser()
+
+WS.

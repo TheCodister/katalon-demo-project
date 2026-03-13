@@ -1,5 +1,4 @@
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
-
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
@@ -23,20 +22,22 @@ KeywordLogger log = new KeywordLogger()
 
 WebUI.openBrowser('')
 
+WebUI.setViewPortSize(1920, 1080)
+
 WebUI.callTestCase(findTestCase('MainTC-reuse1'), [:], FailureHandling.STOP_ON_FAILURE)
 
-log.logInfo("Call successfully")
+log.logInfo('Call successfully')
 
 WebUI.waitForElementPresent(findTestObject('Page_Automation Exercise - Account Created/a_Continue'), 20)
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/p_Login failed Please ensure the username a_eb55b5'))
 
-log.logWarning("This is a warning")
+log.logWarning('This is a warning')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/p_Login failed Please ensure the username a_eb55b5'), 
     'Login failed! Please ensure the username and password are valid.')
 
-log.logFailed("The element appear")
+log.logFailed('The element appear')
 
 WebUI.takeElementScreenshotAsCheckpoint('', findTestObject(null))
 

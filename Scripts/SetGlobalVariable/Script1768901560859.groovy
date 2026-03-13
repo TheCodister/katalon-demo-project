@@ -37,7 +37,7 @@ WebUI.setText(findTestObject('Object Repository/BK-LMS/Page_HCMUT  Central Authe
 
 GlobalVariable.G_0 = username
 
-GlobalVariable.G_1 = password
+GlobalVariable.AnimalName = password
 
 WebUI.click(findTestObject('BK-LMS/Page_HCMUT  Central Authentication Service/input_W_submit'))
 

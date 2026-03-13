@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>Android-set-text interaction</name>
-   <tag></tag>
+   <tag>kami</tag>
    <comment></comment>
    <recordOption>TESTCLOUD_NATIVE_MOBILE</recordOption>
    <testCaseGuid>efc680b0-738c-46d2-ab1a-15d198bdd562</testCaseGuid>

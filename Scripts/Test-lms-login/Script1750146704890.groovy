@@ -27,6 +27,8 @@ WebUI.waitForPageLoad(15)
 
 WebUI.maximizeWindow()
 
+WebUI.uploadFileWithDragAndDrop('')
+
 WebUI.waitForElementPresent(findTestObject('BK-LMS/Page_Log in to the site  BK-LMS/a_Ti khon HCMUT (HCMUT account)'), 45)
 
 WebUI.click(findTestObject('Object Repository/BK-LMS/Page_Log in to the site  BK-LMS/a_Ti khon HCMUT (HCMUT account)'))

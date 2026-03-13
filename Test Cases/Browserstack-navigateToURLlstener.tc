@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>Browserstack-navigateToURLlstener</name>
-   <tag></tag>
+   <tag>demo</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>c0fb7810-68d5-4946-9692-bcd1168327ec</testCaseGuid>

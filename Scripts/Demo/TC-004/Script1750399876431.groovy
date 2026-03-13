@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://automationexercise.com/')
 
 WebUI.verifyElementPresent(findTestObject('Spy-Web-Object/Page_Automation Exercise/h1_AutomationExercise'), 0)
 
-WebUI.click(findTestObject('Spy-Web-Object/Page_Automation Exercise/a_Signup  Login', [(GlobalVariable.name) : GlobalVariable.name]))
+WebUI.click(findTestObject('Spy-Web-Object/Page_Automation Exercise/a_Signup  Login', [(GlobalVariable.AnimalName) : GlobalVariable.AnimalName]))
 
 WebUI.verifyElementText(findTestObject('Spy-Web-Object/Page_Automation Exercise - Signup  Login/h2_Login to your account'), 
     'Login to your account')

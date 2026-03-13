@@ -28,5 +28,13 @@ WebUI.click(findTestObject('Object Repository/BMB-page-rplus-object/Page_Racket/
 WebUI.verifyElementText(findTestObject('Object Repository/BMB-page-rplus-object/Page_Racket/h5_Yonex Arcsaber 2 Feel'), 
     'Yonex Arcsaber 2 Feel')
 
+//WebUI.click(findTestObject('Object Repository/BMB-page-rplus-object/Page_/button_Racket'))
+//
+//WebUI.click(findTestObject('Object Repository/BMB-page-rplus-object/Page_Racket/input_Yonex'))
+//
+//WebUI.verifyElementText(findTestObject('Object Repository/BMB-page-rplus-object/Page_Racket/h5_Yonex Arcsaber 2 Feel'),
+//	'Yonex Arcsaber 2 Feel')
+//
+//WebUI.closeBrowser()
 WebUI.closeBrowser()
 

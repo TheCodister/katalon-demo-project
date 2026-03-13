@@ -28,5 +28,13 @@ WebUI.click(findTestObject('Object Repository/Recorder-Object/Page_Log in to the
 WebUI.verifyElementText(findTestObject('Recorder-Object/Page_Log in to the site  BK-LMS/div_Two cookies are used on this siteThe es_5152f6_1'), 
     'Two cookies are used on this site:\n\nThe essential one is the session cookie, usually called MoodleSession. You must allow this cookie in your browser to provide continuity and to remain logged in when browsing the site. When you log out or close the browser, this cookie is destroyed (in your browser and on the server).\n\nThe other cookie is purely for convenience, usually called MOODLEID or similar. It just remembers your username in the browser. This means that when you return to this site, the username field on the login page is already filled in for you. It is safe to refuse this cookie - you will just have to retype your username each time you log in.')
 
+CustomKeywords.'baseUtil.NewFileDownload.verifyFileExists'('')
+
+//WebUI.click(findTestObject('Object Repository/Recorder-Object/Page_Log in to the site  BK-LMS/button_Cookies notice'))
+//
+//WebUI.click(findTestObject('Object Repository/Recorder-Object/Page_Log in to the site  BK-LMS/div_Two cookies are used on this siteThe es_5152f6'))
+//
+//WebUI.verifyElementText(findTestObject('Recorder-Object/Page_Log in to the site  BK-LMS/div_Two cookies are used on this siteThe es_5152f6_1'),
+//	'Two cookies are used on this site:\n\nThe essential one is the session cookie, usually called MoodleSession. You must allow this cookie in your browser to provide continuity and to remain logged in when browsing the site. When you log out or close the browser, this cookie is destroyed (in your browser and on the server).\n\nThe other cookie is purely for convenience, usually called MOODLEID or similar. It just remembers your username in the browser. This means that when you return to this site, the username field on the login page is already filled in for you. It is safe to refuse this cookie - you will just have to retype your username each time you log in.')
 WebUI.closeBrowser()
 

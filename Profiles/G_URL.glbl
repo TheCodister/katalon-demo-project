@@ -20,9 +20,16 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
-      <name>G_0</name>
-      <protected>true</protected>
+      <initValue>'cattie'</initValue>
+      <name>AnimalName</name>
+      <protected>false</protected>
+      <valueType>STRING</valueType>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'2012/093062/07'</initValue>
+      <name>CategoryName</name>
+      <protected>false</protected>
       <valueType>STRING</valueType>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
