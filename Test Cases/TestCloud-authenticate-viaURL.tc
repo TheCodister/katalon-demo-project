@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCloud-authenticate-viaURL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3fe7df12-20ad-4b04-bde9-f0d655cce944</testCaseGuid>
+</TestCaseEntity>
